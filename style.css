@@ -1,0 +1,22 @@
+.navbar {
+    background-color: #2d2d48;
+}
+.navbar-text,
+.navbar-brand,
+.navbar-link{
+    color: white;
+}
+.layout {
+    width: 100%;
+    display: grid;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+.homepage {
+    width: 5%;
+    height: 20vh;
+}
+.row {
+    background-color: #2d2d48;
+}
