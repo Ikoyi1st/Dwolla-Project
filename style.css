@@ -1,6 +1,8 @@
 .navbar {
     background-color: #2d2d48;
+    color: white;
 }
+.navbar-item,
 .navbar-text,
 .navbar-brand,
 .navbar-link{
@@ -18,5 +20,8 @@
     height: 20vh;
 }
 .row {
+    background-color: #2d2d48;
+}
+h1 {
     background-color: #2d2d48;
 }
